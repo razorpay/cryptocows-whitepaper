@@ -2,6 +2,8 @@
 
 ##### Virtuous Collectibles for a new India, Powered by Nothing But Blockchain Buzzwords
 
+![](banner.jpg)
+
   * [Abstract](#abstract)
   * [The Problem](#the-problem)
   * [The Solution](#the-solution)
