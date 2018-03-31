@@ -1,6 +1,16 @@
-# [CryptoCows](https://razorpay.com/cryptocows)
+# [CryptoCows](https://razorpay.com/cryptocows/)
 
 ##### Virtuous Collectibles for a new India, Powered by Nothing But Blockchain Buzzwords
+
+  * [Abstract](#abstract)
+  * [The Problem](#the-problem)
+  * [The Solution](#the-solution)
+    + [Initial Cow Offering](#initial-cow-offering)
+    + [Sanksari Breeding](#sanksari-breeding)
+    + [GST: Protocol Tokens, Backed by Moral Virtue](#gst-protocol-tokens-backed-by-moral-virtue)
+    + [High Stability](#high-stability)
+    + [Decentralized Herds](#decentralized-herds)
+    + [In Conclusion](#in-conclusion)
 
 ## Abstract
 
@@ -10,14 +20,10 @@ In this paper, Razorpay will attempt to be _that dude_.
 
 At its heart, the concept of digital collectibles is easy enough to understand. Common collectibles like coins or stamps or paintings have certain properties, also held by their digital equivalents:
 
-
-
 *   Aside from the intangible (and largely unreasonable) joy they afford their owner, **they serve no real function**.
 *   Their value is largely determined by **their scarcity**.
 
 Both these properties are easily duplicated for digital collectibles. The one key difference arises from another property of common collectibles:
-
-
 
 *   You can touch them.
 
@@ -27,28 +33,9 @@ The problems with currently available digital collectibles therefore arise from 
 
 These problems listed below, along with a proposal for a revolutionary new type of digital collectible that circumvents the shortcomings of existing alternatives, and serves an additional purpose: that of representing and rewarding **human virtue**, by allowing the easy possession and upkeep of a domestic cow.
 
-
-## Table of Contents
-
-
-
-1.  Abstract
-1.  The Problem
-1.  The Solution
-    1.  Initial Cow Offering
-    1.  Sanksari Breeding
-    1.  Invisible Section
-    1.  Protocol Tokens, Backed by Moral Virtue
-    1.  High Asset Stability
-    1.  Decentralized Herds
-1. Conclusion
-
-
 ## The Problem
 
 In our bid to make blockchain and digital collectibles more approachable to the general public, we must consider obstacles that people of the world face when contemplating the purchase and possession of a cow, as well as cultural obstacles to the adoption of arbitrary feline mascots for a digital collectible, which might at first appear to be a reasonable alternative. Some of the issues are outlined below:
-
-
 
 *  **Cows are expensive.** Both the purchase and upkeep of a domestic cow comes with a host of problems. There is precious little information first available when you are purchasing a cow, and the various factors to be considered may seem out of reach for the average Indian.
 *  **Cows are insecure.** Where would one keep one's cows? In a cryptographically secure gaushala, with 13ft high walls? Of course not. Cows are therefore insecure, and they can be stolen.
@@ -123,4 +110,3 @@ CryptoCows provides an exciting and as yet unexplored new application of decentr
 ### In Conclusion
 
 If you are still reading this, we would like to offer our sincerest apologies and remind you that this was done as part of an April Fool's Prank. If you are reading this in the future and CryptoCows is a billion dollar business then please contact someone at Razorpay and help us get our due share of the money.
-
