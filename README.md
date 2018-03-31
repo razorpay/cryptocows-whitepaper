@@ -12,7 +12,7 @@
     + [GST: Protocol Tokens, Backed by Moral Virtue](#gst-protocol-tokens-backed-by-moral-virtue)
     + [High Stability](#high-stability)
     + [Decentralized Herds](#decentralized-herds)
-    + [In Conclusion](#in-conclusion)
+  * [In Conclusion](#in-conclusion)
 
 ## Abstract
 
